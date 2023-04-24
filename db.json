@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": "3c3fb20c-df6f-11ed-b5ea-0242ac120002",
+      "name": "Macbook M1 Pro",
+      "price": "R$ 10.000,00",
+      "seller": "Amazon",
+      "inStock": 10,
+      "avaliations": [
+        {
+          "id": 1,
+          "message": "Its nice"
+        },
+        {
+          "id": 2,
+          "message": "dasdassd"
+        },
+        {
+          "id": 3,
+          "message": "teste123"
+        }
+      ]
+    },
+    {
+      "id": "40a0faa4-df6f-11ed-b5ea-0242ac120002",
+      "name": "Ovo da pascoa 1KG",
+      "price": "R$ 1.000",
+      "seller": "Cacau Show",
+      "inStock": 5,
+      "avaliations": [
+        {
+          "id": 0,
+          "message": "Its really bad"
+        },
+        {
+          "id": 1,
+          "message": "The taste is strange"
+        }
+      ]
+    },
+    {
+      "id": "40a0faa4-df6f-11ed-b5ea-0242ac120004",
+      "name": "Iphone 14 PRO",
+      "price": "R$ 10.000,00",
+      "seller": "Apple",
+      "inStock": 1,
+      "avaliations": [
+        {
+          "id": 1,
+          "message": "teste"
+        },
+        {
+          "id": 2,
+          "message": "testeata"
+        },
+        {
+          "id": 3,
+          "message": "testeataata"
+        },
+        {
+          "id": 4,
+          "message": "testeataataata"
+        },
+        {
+          "id": 5,
+          "message": "teste2"
+        }
+      ]
+    }
+  ]
+}
